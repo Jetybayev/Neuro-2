@@ -7,4 +7,4 @@
 + ***Но самое главное, я люблю кодить***
 ## _Это ссылка на мой_ [Github.com](https://github.com/Jetybayev)
 
-![Whats-App-Image-2023-05-30-at-18-30-59.jpg](https://postimg.cc/k2JxG4rx)
+![](https://i.postimg.cc/kg8wj6fh/Whats-App-Image-2023-05-30-at-18-30-59.jpg)
