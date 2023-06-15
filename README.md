@@ -4,7 +4,7 @@
 + Я люблю _теннис_
 + И играть в **футбол**
 + Читать разные * *книги* *
-***Но самое главное, я люблю кодить***
++ ***Но самое главное, я люблю кодить***
 ## _Это ссылка на мой_ [Github.com](https://github.com/Jetybayev)
 
-![]("C:\Users\K7-GROUP\Downloads\WhatsApp Image 2023-05-30 at 18.30.59.jpeg")
+![]("\img/WhatsApp%20Image%202023-05-30%20at%2018.30.59.jpegWhatsApp Image 2023-05-30 at 18.30.59.jpeg")
